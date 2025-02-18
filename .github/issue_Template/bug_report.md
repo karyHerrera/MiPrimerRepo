@@ -10,7 +10,7 @@ assignees: ''
 Una descripción clara y concisa del error.
 
 **Reproducir**
-Pasos para reproducir el comportamiento:
+Pasos para reproducir el  comportamiento:
 
 1. Ir a '...'
 2. Hacer clic en '...'
